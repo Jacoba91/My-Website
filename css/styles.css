@@ -1,0 +1,175 @@
+body {
+    background-color: #876445;
+    margin: 0px;
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+    font-size: large;
+    height: fit-content;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'Damion', cursive;
+    font-size: 5.625rem;
+    color: #227C70;
+}
+
+h2 {
+    color: #DFD3C3;
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.85rem;
+    font-weight: normal;
+    margin-top: 0%;
+}
+
+.welcome {
+    color: #227C70;
+}
+
+.Jacob-icon {
+    width: 10%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+p {
+    line-height: 2;
+}
+
+h3 {
+    font-family: 'DM Serif Display', serif;
+    color: antiquewhite;
+}
+
+.s1 {
+    width: 33%;
+    text-align: center;
+    position: relative;
+    margin: auto;
+    color: #F5F4F4;
+}
+
+.dots {
+    border-top: dotted 10px;
+    border-right: transparent;
+    border-left: transparent;
+    border-bottom: transparent;
+    color: #A0855B;
+    margin-top: 80px;
+    padding-bottom: 70px;
+    width: 6%
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 260px;
+    top: 280px;
+}
+
+.grass {
+    border: 10px solid #5F8D4E;
+    border-radius: 5px;
+    margin-top: 0%;
+}
+
+.btn {
+    color: #F7F7F7;
+}
+
+.skull-img {
+    width: 6%;
+    position: absolute;
+    left: 100px;
+    transform: rotate(-25deg);
+}
+
+.fossil {
+    width: 6%;
+    position: absolute;
+    left: 100px;
+    transform: rotate(20deg);
+}
+
+.bone-img {
+    width: 4%;
+    position: absolute;
+    right: 120px;
+}
+
+.skull2 {
+    width: 6%;
+    position: absolute;
+    right: 100px;
+    transform: rotate(25deg);
+}
+
+.button {
+    background-color: #9FC088;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.button:hover {
+    background-color: #227C70;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 80px
+}
+
+.TopContainer {
+    background-color: #82C3EC;
+    position: relative;
+    padding-top: 100px;
+    height: 546px;
+    margin-bottom: 0%;
+}
+
+.HTML5-Logo {
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.CSS-Logo {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    color: #F5F4F4;
+}
+
+.bottom-container {
+    background-color: #A0937D;
+    height: 230px
+}
+
+.footer-link {
+    color: antiquewhite;
+    position: relative;
+    top: 70px;
+}
+
+.footer-link2 {
+    color: antiquewhite;
+    margin: 0px 40px;
+    position: relative;
+    top: 70px;
+}
+
+.c {
+    position: relative;
+    top: 120px;
+}
+
+a {
+    text-decoration: none;
+}
